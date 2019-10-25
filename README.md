@@ -1,7 +1,7 @@
 # How-to-create-Chart-in-WPF
 This example demonstrates how to implement chart in WPF with header, legend, axis and series in C#, VB and XAML. 
 
-Please refer KB links for more details about this,
+Please refer KB links for more details,
 
 [How to create chart in C# WPF](https://www.syncfusion.com/kb/10783?utm_medium=listing&utm_source=github-examples)
 
