@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfChartSample_CS", "SfChartSample_CS.csproj", "{6DE995BC-9A37-48FB-B530-234175DDF1ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartSample_CS", "ChartSample_CS.csproj", "{6DE995BC-9A37-48FB-B530-234175DDF1ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
