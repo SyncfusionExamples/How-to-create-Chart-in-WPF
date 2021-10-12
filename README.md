@@ -13,5 +13,5 @@ Please refer KB links for more details,
 ### Path too long exception
 If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
 
-
+KB article - [How-to-create-Chart-in-WPF](https://www.syncfusion.com/kb/10796/how-to-create-chart-control-example-in-vb-net-wpf)
 
