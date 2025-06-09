@@ -23,4 +23,4 @@ For more details, refer to the KB on [how to create chart in VB .Net WPF](https:
 
 ## See more
 
-You can refer to our [WPF Charts](https://www.syncfusion.com/wpf-controls/charts?_gl=1*1m2hzo7*_ga*mziymta2oteumty4njazntewmg..*_ga_wc4jkkphh0*mty5mjmzmzyyms4ymzcums4xnjkymzmznjq0ljm3ljauma..*_ga_41j4hfmx1j*mty5mjmzmzyyms40ny4xlje2otizmzm2ndqumc4wlja.) feature tour page for its groundbreaking feature representations. You can also explore our [WPF Charts example](https://github.com/syncfusion/wpf-demos) to knows various chart types and how to easily configured with built-in support for creating stunning visual effects.
+You can refer to our [WPF Charts](https://www.syncfusion.com/wpf-controls/charts) feature tour page for its groundbreaking feature representations. You can also explore our [WPF Charts example](https://github.com/syncfusion/wpf-demos) to knows various chart types and how to easily configured with built-in support for creating stunning visual effects.
